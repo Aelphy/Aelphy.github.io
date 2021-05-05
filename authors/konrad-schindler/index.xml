@@ -5,12 +5,20 @@
     <link>/authors/konrad-schindler/</link>
       <atom:link href="/authors/konrad-schindler/index.xml" rel="self" type="application/rss+xml" />
     <description>Konrad Schindler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mikhail Usvyatsov</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Mikhail Usvyatsov</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Konrad Schindler</title>
       <link>/authors/konrad-schindler/</link>
     </image>
+    
+    <item>
+      <title>PREDATOR: Registration of 3D Point Clouds with Low Overlap</title>
+      <link>/publication/huang-2021-predator/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2021-predator/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Indoor Scene Recognition in 3D</title>
