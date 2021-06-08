@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/andreas-wieser/</loc>
@@ -41,7 +41,7 @@
     <loc>/post/</loc>
     <lastmod>2021-02-25T11:14:05+01:00</lastmod>
   </url><url>
-    <loc>/publication_types/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/huang-2020-indoor/</loc>
@@ -50,7 +50,7 @@
     <loc>/publication/usvyatsov-2019-visual/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/hackel-2018-inference/</loc>
@@ -80,9 +80,9 @@
     <loc>/publication/borisyak-2017-muon/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/authors/admin/</loc>
   </url><url>
     <loc>/talk/</loc>
   </url><url>
